@@ -1,0 +1,11 @@
+{
+    "name": "sentinel-dashboard",
+    "version": "1.0.0",
+    "description": "Project Sentinel Dashboard",
+    "main": "app.py",
+    "scripts": {
+        "start": "python app.py"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
